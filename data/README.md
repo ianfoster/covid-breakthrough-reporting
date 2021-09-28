@@ -38,14 +38,14 @@ Ian has placed the following status information here. **NO** means they said no.
 | New York| YES | See [main page](https://github.com/blaiszik/covid-breakthrough-reporting) |
 | North Carolina| Pending | Reached out on 9/27/2021 to Dr. ClarLynda Williams-DeVane at cwilliams-devane@fisk.edu, director of the NC State Center for Health Statistics. |
 | North Dakota| - | - |
-| Ohio| - | Couldn't find any useful contact. |
+| Ohio| - | Sent email to a generic contact, covid-19@odh.ohio.gov, and got a useless form letter response. |
 | Oklahoma| Pending | Emailed okcovid19@outlook.com and covid19@health.ok.gov on 9/27/2021. The former is for [Oklahoma's best Covid dashboard](https://ok-covid-19.com): not clear if it is the state. The latter is for the state dashboard, which has [good PDF reports](https://oklahoma.gov/covid19/newsroom/weekly-epidemiology-and-surveillance-report.html) with lots of disaggregated data, but only monthly. |
 | Oregon| YES | See [main page](https://github.com/blaiszik/covid-breakthrough-reporting) |
 | Pennsylvania| Pending | Trying the "contact us" button on the PA department of health website on 9/27/2021. Long shot. Also Marshal Ma, director of the division of community epidemiology, at zhm20@pitt.edu. |
 | Rhode Island| - | - |
 | South Carolina| YES | See [main page](https://github.com/blaiszik/covid-breakthrough-reporting) |
 | South Dakota| Pending | Emailed DOHDataRequest@state.sd.us based on [their web page](https://doh.sd.gov/statistics/) on 9/27/2021. |
-| Tennessee| Pending | I submitted a [data request](https://www.tn.gov/health/health-program-areas/statistics.html) to Office of Informatics & Analytics, Tennessee Department of Health, Data.Health@tn.gov. Asked for same data as for Alabama. I also emailed epidemiologist Tonya McKennley. |
+| Tennessee| Pending | I submitted a [data request](https://www.tn.gov/health/health-program-areas/statistics.html) to Office of Informatics & Analytics, Tennessee Department of Health, Data.Health@tn.gov. Asked for same data as for Alabama. I also emailed epidemiologist Tonya McKennley. On 9/28/2021, they replied to assign request id 27049022, and to say "if you have any questions, contact Nash Aragam at Nagesh.Aragam@tn.gov." |
 | Texas | NO | Sent request to coronavirus@dshs.texas.gov. Their reply: "We cannot release vaccination data for research purposes per ImmTrac legal statutes & the aggregate fatality analysis has not been approved for release yet." Note: I also reached out to Dan Stanzione from TACC, who put me in touch with kpierce@tacc.utexas.edu, who may have local county data. |
 | Utah| YES | See [main page](https://github.com/blaiszik/covid-breakthrough-reporting) |
 | Vermont| Pending | Wrote to AHS.VDHDataRequests@vermont.gov on 9/27/2021. |
